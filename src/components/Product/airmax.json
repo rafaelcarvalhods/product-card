@@ -1,0 +1,21 @@
+{
+    "id": "ccd2bb11-1855-462c-9066-3cece6f1323b",
+    "category": "shoes",
+    "collection": "Winter Collection",
+    "model": {
+        "line": "Airmax",
+        "brand": "Nike",
+        "description": "Man Black Sneakers",
+        "sizes": [7, 8, 9, 10, 11],
+        "colors": [
+            { "id": "yellow", "hex": "#fdc60f"},
+            { "id": "black", "hex": "#020203"},
+            { "id": "blue", "hex": "#05a0ca"}
+        ]
+    },
+    "price": {
+        "originalPrice": 200,
+        "discountedPrice": 150
+    },
+    "photos": ["https://cdnv2.moovin.com.br/nicecalcados/imagens/produtos/det/tenis-nike-cd4165-005-air-max-excee-a0c84d02984ebed14bef647db3b28550.png"]
+}
